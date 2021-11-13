@@ -20,7 +20,9 @@ Repo containing the demos for the Amplify presentation
 # How to run the project
 1. clone the repo: `git clone https://github.com/Andrea-Pallotta/Amplify_Demos.git`
 2. install dependencies: `npm install` or `yarn add`
-3. run the reactJS app: `npm start` or `yarn start`
+3. run `amplify pull --appId d2mbquh4d2izu1 --envName demo` to install Amplify resources. 
+  - `access_key_id` and `secret_access_key` are in the `/.aim_creds.csv` file
+4. run the reactJS app: `npm start` or `yarn start`
 
 # Notes
 For any problem, contact me at ap4534@rit.edu before the presentation
