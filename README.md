@@ -25,5 +25,9 @@ Repo containing the demos for the Amplify presentation
   - `access_key_id` and `secret_access_key` are in the `/.aim_creds.csv` file
 4. run the reactJS app: `npm start` or `yarn start`
 
+# GraphQL creds:
+- GraphQL endpoint: `https://phhjrgl2yrfohphumhxwxuuxlq.appsync-api.us-east-1.amazonaws.com/graphql`
+- GraphQL API KEY: `da2-yi7w3wadmjfhdkvzpa7cpbfu7e`
+
 # Notes
 For any problem, contact me at ap4534@rit.edu before the presentation
