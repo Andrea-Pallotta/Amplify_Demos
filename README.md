@@ -20,10 +20,11 @@ Repo containing the demos for the Amplify presentation
 
 # How to run the project
 1. clone the repo: `git clone https://github.com/Andrea-Pallotta/Amplify_Demos.git`
-2. install dependencies: `npm install` or `yarn add`
-3. run `amplify pull --appId d2mbquh4d2izu1 --envName demo` to install Amplify resources. 
+2. cd into `amplify_demo_1`
+3. install dependencies: `npm install` or `yarn add`
+4. run `amplify pull --appId d2mbquh4d2izu1 --envName demo` to install Amplify resources. 
   - `access_key_id` and `secret_access_key` are in the `/.aim_creds.csv` file
-4. run the reactJS app: `npm start` or `yarn start`
+5. run the reactJS app: `npm start` or `yarn start`
 
 # GraphQL creds:
 - GraphQL endpoint: `https://phhjrgl2yrfohphumhxwxuuxlq.appsync-api.us-east-1.amazonaws.com/graphql`
