@@ -6,6 +6,7 @@ Repo containing the demos for the Amplify presentation
 - Node.js `v12.x` or later
 - npm `v5.x` or later
 - git `v2.14.1` or later
+- ReactJS 17.x.x or later
 - Basic ReactJS, ES6 syntax knowledge
 - AWS account
 
